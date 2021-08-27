@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu souo Guilherme Ferrari</h1>
+<h2 align="center">Olá 👋, Eu sou o Guilherme Ferrari</h2>
 <h3 align="center">Estudante de Tecnologia em Sistemas para Internet</h3>
 
 - 🔭 Atualmente estou trabalhando nos **Projetos do Curso**
